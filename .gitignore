@@ -1,0 +1,12 @@
+dist/
+release/
+test-output/
+.local/
+*.zip
+settings.ini
+*.exe
+*.pdb
+*.user
+.vs/
+.DS_Store
+Thumbs.db
